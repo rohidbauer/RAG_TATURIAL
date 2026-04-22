@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector Databases
+chroma_db/
+chroma/
+faiss_index/
+*.faiss
+*.index
+vectorstore/
+Vector/
+db/
+
+# OS files
+.DS_Store
+Thumbs.db

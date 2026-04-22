@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+tiktoken
+faiss-cpu
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
