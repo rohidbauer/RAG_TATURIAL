@@ -24,3 +24,9 @@ langchain-experimental
 rank_bm25
 wikipedia
 langgraph
+python-docx
+docx2txt
+unstructured[docx]
+pandas
+#embedding
+sentence-transformers
