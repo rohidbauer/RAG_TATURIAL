@@ -1,0 +1,9 @@
+
+    Machin learning fundamentals
+
+    Machine learning is a branch of artificial intelligence that enables computers to learn from data and 
+    improve their performance without being explicitly programmed. It works by using algorithms to analyze patterns, 
+    make predictions, and solve problems based on the information provided. For example, machine learning is used in
+    recommendation systems like suggesting movies on streaming platforms
+    or products on shopping websites.
+    
